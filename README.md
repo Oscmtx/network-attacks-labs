@@ -13,3 +13,14 @@ Muchas veces, al estudiar ciberseguridad, nos encontramos con explicaciones teó
 * **Aprender haciendo:** Proporcionar laboratorios prácticos en formato PDF para pasar de la teoría a la ejecución visual.
 * **Perspectiva defensiva:** Entender la mecánica interna de los ataques de red (ARP Spoofing, DNS Poisoning, MITM, etc.) para saber cómo detectar, analizar y mitigar estas amenazas en un SOC.
 * **Accesibilidad:** Crear guías claras y guiadas que cualquier principiante pueda replicar en sus propias máquinas virtuales o laboratorios locales.
+
+---
+
+## 🤖 Créditos y Metodología de Creación
+Nota de transparencia e historia del proyecto:
+
+Quien administra este repositorio también es un estudiante principiante en el área de ciberseguridad.
+
+Estos laboratorios no fueron redactados ni diseñados de forma 100% autónoma desde cero. Para estructurar las prácticas, se utilizó un entorno de estudio asistido mediante NotebookLM (IA), configurando un rol de "profesor especialista en ciberseguridad" a partir de fuentes técnicas, marcos de trabajo y documentación de incidentes reales.
+
+La IA ayudó a diseñar la metodología paso a paso para ejecutar las pruebas en laboratorios locales. El propósito de compartir este material es que la comunidad pueda aprovechar este proceso de aprendizaje asistido y practicar sin tener que empezar desde una página en blanco.
