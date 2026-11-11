@@ -24,3 +24,16 @@ Quien administra este repositorio también es un estudiante principiante en el �
 Estos laboratorios no fueron redactados ni diseñados de forma 100% autónoma desde cero. Para estructurar las prácticas, se utilizó un entorno de estudio asistido mediante NotebookLM (IA), configurando un rol de "profesor especialista en ciberseguridad" a partir de fuentes técnicas, marcos de trabajo y documentación de incidentes reales.
 
 La IA ayudó a diseñar la metodología paso a paso para ejecutar las pruebas en laboratorios locales. El propósito de compartir este material es que la comunidad pueda aprovechar este proceso de aprendizaje asistido y practicar sin tener que empezar desde una página en blanco.
+
+---
+
+## ⚠️ Descargo de Responsabilidad Ética (Disclaimer)
+Todo el contenido, comandos y escenarios compartidos en este repositorio tienen fines exclusivamente educativos y de aprendizaje defensivo.
+
+Las pruebas deben ser ejecutadas únicamente en entornos virtuales propios o autorizados.
+
+Queda estrictamente prohibido el uso de estas técnicas en redes públicas o de terceros sin consentimiento explícito.
+
+El mantenedor de este repositorio no se hace responsable del uso inadecuado del contenido presentado.
+
+🤝 ¡La práctica hace al maestro! Si tienes sugerencias, correcciones o mejoras para los laboratorios, siéntete libre de abrir un Issue o enviar un Pull Request.
